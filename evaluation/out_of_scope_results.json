@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Universitet yeməkxanasında bu gün hansı yeməklər verilir?",
+    "result": {
+      "mode": "rag",
+      "model": "llama3.2:latest",
+      "status": "not_found",
+      "answer": "Təqdim olunan sənədlərdə bu suala cavab tapılmadı.",
+      "citations": [],
+      "retrieved": [
+        {
+          "chunk_id": "imtahan_qaydalari_p016_c001",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 16,
+          "word_start": 0,
+          "word_end": 180,
+          "word_count": 180,
+          "text": "imzalandıqdan sonra möhürlənir; - Sessiya imtahanlarında üzrlü səbəbdən iştirak edə bilməyən təhsilalanlar imtahan sessiyasının sonuncu gününədək müvafiq təsdiqedici sən ədi fakültə ( İTM, YTİ direktoruna) dekanlığına təqdim edir; - Təkrar imtahanlar müqavilə qoşma edilməklə fakültə, İTM, YTİ rəhbəri tərəfindən rektora ünvanlanan xidməti məruzə əsasında əmrləşdirilməklə təşkil olunur; - Təkrar və üzrlü imtahanlarda iştirak etməyən təhsilalanlar üçün həmin fənlər üzrə yenidən imtahan təşkil olunmur. Onlar növbəti semestrlərdə həmin fənn üzrə akademik borcunu fənni (fənləri) alt qruplarda, habelə yay semestrində yenidən dinləmək və müvəffəq qiymət almaqla aradan qaldıra bilərlər; - Üzrlü imtahanlarında iştirak edən təhsilalan həmin semestr nəticəsinə görə təqaüd müsabiqəsində iştirak edir. Fənni yenidən dinləmədən təkrar imtahan verən təhsilalanlar isə həmin semestr nəticəsinə görə təqaüd müsabiqəsində iştirak etmir. 4.5. İmtahanda qayda pozuntusu və imtahan nəticəsinin ləğvi - İmtahanların keçirilməsi zamanı təhsilalanların nizam -intizamı “Azərbaycan Texniki Universitetində təhsilalanların universitetdaxili intizam qaydaları” əsasında tənzimlənir; - İmtahan zamanı aşağıdakı halların aşkarlanması həmin nəticələrin ləğvinə və təhsilalanlar barəsində müvafiq intizam tədbirlərinin görülməsinə əsas yaradır: - İmtahan başlayandan sonra təhsilalandan konspekt, mobil telefon, “ağıllı” saat, mikroqulaqcıq, məsafədən ötürmə cihazı və s. digər yardımçı vasitənin aşkar edilməsi;",
+          "score": 0.8192492723464966,
+          "rerank_score": -6.856644153594971
+        },
+        {
+          "chunk_id": "imtahan_qaydalari_p021_c001",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 21,
+          "word_start": 0,
+          "word_end": 140,
+          "word_count": 140,
+          "text": "- Təhsilalanlara qarşı ş əxsi q ərəz nümayiş etdirm ək (daima yanında dayanmaq, onun diqqətini imtahandan yayındırmaq və s.); - Təhsilalanların şəxsiyyəti, onun xarici görünüşü ilə əlaqəli istənilən təhqiredici ifadələrdən istifadə etmək; - İmtahan gedişinə maneə yaradan və mövcud qaydalardan kənar istənilən davranışa yol vermək. 5. Apellyasiya Qaydaları - Nəticədən narazı olan tələbə, nəticələrin elan edildiyi gündən 24 saat ərzində Apellyasiya Komissiyasina ərizəsi ilə müraciət etməlidir. - Müraciət qəbul edildikdən sonra gün təyin edilir və Komissiya üzvləri tələbənin müraciətinə baxılır; - Nəticəyə uyğun olaraq qərar qəbul edilir. Qərarda tələbənin topladığı qiymət olduğu kimi saxlanılır, yaxud dəyişiklik öz əksini tapır; - Apellyasiya müraciət etməyən tələbənin imtahan işinə baxılmağa icazə verilmir. 6. Yekun müddəa - Qaydaya əlavə və dəyişikliklər Az ərbaycan Texniki Universitetinin rektoru t ərəfindən təsdiq olunur; - Hər semestrin sonunda bu Qaydaya uyğun olaraq imtahanın t əşkiliylə bağlı əmr hazırlanır.",
+          "score": 0.8318203687667847,
+          "rerank_score": -7.314515590667725
+        },
+        {
+          "chunk_id": "imtahan_qaydalari_p019_c001",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 19,
+          "word_start": 0,
+          "word_end": 180,
+          "word_count": 180,
+          "text": " İmtahan zalına daxil olan tələbənin nəzarətçinin göstərişi ilə ona təyin olunan kompüterin arxasında əyləşmək;  İmtahan prosesində sakitliyə riayət etmək;  İmtahan bitdikdə, imtahan zalını tərk etmək. - Tələbəyə imtahanda nə qadağandır?  Digər tələbələrlə danışmaq, onlara mane olmaq, imtahanda səs salmaq;  Kitabdan, mühazirə konspektlərindən və digər icazə verilməyən materiallardan istifadə etmək və köçürmək;  İmtahan zalına cib telefonu, kalkulyator, konspekt, qeydiyyat kitabçası, çanta və s. texniki vasitələri gətirmək;  Hər hansı bir səbəbə görə imtahan zalını tərk edib yenidən geri dönmək;  Başqa tələbənin şifrəsi ilə imtahan verməyə cəhd etmək;  Başqa tələbənin əvəzinə imtahan vermək;  İmtahan prosesində digər tələbələrlə məsləhətləşmək, onların monitorlarına baxmaq;  Tələbənin kompüterin proqram təminatını korlaması və texniki vəziyyətinə zərər yetirməsi;  İntizamsızlıq göstərmək:  Zalda gəzişmək, yerini dəyişmək, kiminsə köməyindən istifadə etmək , kim əsə kömək etmək və bu kimi hallarla imtahanın gedişinə mane olmaq. Qeyd: 1.Göstərilən qaydalara əməl etməyən tələbə imtahandan xaric edilir və imtahanın nəticəsinə görə ona “0” (sıfır) bal müəyyənləşdirilir. 2. Yalnız zəruri hallarda tələbə yerini səlahiyyətli şəxslərin icazəsi ilə dəyişə bilər. 3. Tələbə qoyulan qaydaların tələblərinə əməl",
+          "score": 0.8211323022842407,
+          "rerank_score": -7.81179141998291
+        }
+      ],
+      "evidence": [
+        {
+          "id": 1,
+          "chunk_id": "imtahan_qaydalari_p021_c001",
+          "page": 21,
+          "section": "4.9",
+          "text": "- Təhsilalanlara qarşı ş əxsi q ərəz nümayiş etdirm ək (daima yanında dayanmaq, onun diqqətini imtahandan yayındırmaq və s.);"
+        },
+        {
+          "id": 2,
+          "chunk_id": "imtahan_qaydalari_p019_c001",
+          "page": 19,
+          "section": "4.7",
+          "text": "İmtahan zalına cib telefonu, kalkulyator, konspekt, qeydiyyat kitabçası, çanta və s. texniki vasitələri gətirmək;"
+        },
+        {
+          "id": 3,
+          "chunk_id": "imtahan_qaydalari_p019_c001",
+          "page": 19,
+          "section": "4.7",
+          "text": "İmtahan zalına daxil olan tələbənin nəzarətçinin göstərişi ilə ona təyin olunan kompüterin arxasında əyləşmək;"
+        },
+        {
+          "id": 4,
+          "chunk_id": "imtahan_qaydalari_p016_c001",
+          "page": 16,
+          "section": "4.5",
+          "text": "- İmtahan zamanı aşağıdakı halların aşkarlanması həmin nəticələrin ləğvinə və təhsilalanlar barəsində müvafiq intizam tədbirlərinin görülməsinə əsas yaradır: - İmtahan başlayandan sonra təhsilalandan konspekt, mobil telefon, “ağıllı” saat, mikroqulaqcıq, məsafədən ötürmə cihazı və s. digər yardımçı vasitənin aşkar edilməsi;"
+        },
+        {
+          "id": 5,
+          "chunk_id": "imtahan_qaydalari_p016_c001",
+          "page": 16,
+          "section": "4.4",
+          "text": "- Təkrar imtahanlar müqavilə qoşma edilməklə fakültə, İTM, YTİ rəhbəri tərəfindən rektora ünvanlanan xidməti məruzə əsasında əmrləşdirilməklə təşkil olunur;"
+        },
+        {
+          "id": 6,
+          "chunk_id": "imtahan_qaydalari_p016_c001",
+          "page": 16,
+          "section": "4.4",
+          "text": "- Sessiya imtahanlarında üzrlü səbəbdən iştirak edə bilməyən təhsilalanlar imtahan sessiyasının sonuncu gününədək müvafiq təsdiqedici sən ədi fakültə ( İTM, YTİ direktoruna) dekanlığına təqdim edir;"
+        }
+      ],
+      "model_selection": {
+        "evidence_id": 0
+      },
+      "retrieval_enabled": true
+    },
+    "declined": true
+  },
+  {
+    "question": "Mars planetinin neçə təbii peyki var?",
+    "result": {
+      "mode": "rag",
+      "model": "llama3.2:latest",
+      "status": "not_found",
+      "answer": "Təqdim olunan sənədlərdə bu suala cavab tapılmadı.",
+      "citations": [],
+      "retrieved": [
+        {
+          "chunk_id": "imtahan_qaydalari_p006_c002",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 6,
+          "word_start": 150,
+          "word_end": 182,
+          "word_count": 32,
+          "text": "1 Praktiki sərbəst iş Qiymətləndirmə Meyarı Maksimum Bal Problemin həlli və texniki yanaşma 3 Metodologiya və analiz 2 Tətbiqetmənin dəqiqliyi və effektivliyi 2 Nəticələrin izahı və təqdimat 2 Vaxtında təqdim olunması 1",
+          "score": 0.7781496047973633,
+          "rerank_score": -7.094688892364502
+        },
+        {
+          "chunk_id": "imtahan_qaydalari_p004_c001",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 4,
+          "word_start": 0,
+          "word_end": 180,
+          "word_count": 180,
+          "text": "- Test suallarının 40%-i asan, 40%-i orta, 20%-i çətin olmaqla tərtib edilir; - Suallar Bloom taksonomiyasına uyğun tərtib edilir:  Asan səviyyəli suallar – yadda saxlama və anlama bacarıqlarını yoxlamalı;  Orta səviyyəli suallar – tətbiqetmə və təhlil bacarıqlarını əhatə etməli;  Çətin səviyyəli suallar – qiymətləndirmə və yaradıcı yanaşmanı tələb etməli. - Yekun imtahan başlayan anda tələbəyə proqram vasitəsi ilə 50 testdən ibarət bilet formalaşdırılaraq təqdim olunur və sualların cavablandırılması üçün 60 dəqiqə vaxt verilir; - Hər test sualının düzgün cavablandırılması 1 balla qiymətləndiriləcək (bəzi hallarda qiymətləndirmə meyarları dəyişdirilə bilər). 3.2. Yazılı qiymətləndirmə forması - Hər həftə keçirilən dərslər üzrə suallar müəyyən edilir; - Sualların 40%-i asan, 40%-i orta, 20%-i çətin olmaqla tərtib edilir; - Suallar Bloom taksonomiyasına uyğun tərtib edilir:  Asan səviyyəli suallar – yadda saxlama və anlama bacarıqlarını yoxlamalı;  Orta səviyyəli suallar – tətbiqetmə və təhlil bacarıqlarını əhatə etməli;  Çətin səviyyəli suallar – qiymətləndirmə və yaradıcı yanaşmanı tələb etməli. - Qiymətləndirmə zamanı proqram vasitəsi ilə biletlərdən ixtiyari 1 bilet təhsilalanın elektron kabinetinə göndərilir. Bir bilet 5 sualdan ibarət olur. - Qiymətləndirmə 0-10 bal arasında",
+          "score": 0.7923140525817871,
+          "rerank_score": -8.18278694152832
+        },
+        {
+          "chunk_id": "imtahan_qaydalari_p008_c001",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 8,
+          "word_start": 0,
+          "word_end": 180,
+          "word_count": 180,
+          "text": "- Bu qiym ətləndirmə forması t ələbənin laborator mühitd ə işləmə bacarığını müəyyənləşdirmək, təcrübə nəticələrinin t əhlil v ə şərh olunması qabiliyy ətini ölçm ək məqsədi daşıyır; - Qiymətləndirmə müəllim t ərəfindən birbaşa laboratoriya işi zamanı v ə ya iş sonunda aparılır; - Tələbə aşağıdakı meyarlara görə qiymətləndirilir: Meyarlar İzahı Qiymətləndirmə balı Hazırlıq səviyyəsi Tələbənin laboratoriya işinə nəzəri hazırlıq və lazımi materialların öyrənilməsi 2 bal Təcrübənin yerinə yetirilməsi Tələbənin laborator tapşırığını ardıcıl, düzgün və metodiki qaydalara uyğun şəkildə icra edilməsi 2 bal Müşahidə və qeydlər Təcrübə zamanı aparılan müşahidələrin və nəticələrin dəqiq qeyd edilməsi 2 bal Nəticələrin təhlili Əldə olunan nəticələrin məntiqi əsaslarla təhlili və şərh olunması 2 bal İş zamanı davranış və fəallıq Tələbənin dərs müddətində aktiv iştirakı, məsuliyyətli yanaşması və əməkdaşlığa açıq olması 2 bal Cəmi 10 bal 3.8. Case Study (Praktiki Məsələ) Qiymətləndirmə Forması - Case study (praktiki məsələ) qiymətləndirmə forması tələbələrin nəzəri biliklərini praktiki situasiyalara tətbiq etmə bacarığını yoxlamaq üçün istifadə olunur; - Bu qiymətləndirmə forması tələbələrin analitik düşüncə, problem həll etmə və qərarvermə bacarıqlarını inkişaf etdirmək və ölçmək məqsədi daşıyır; - Hazırlanan case study-lər müvafiq",
+          "score": 0.7867428064346313,
+          "rerank_score": -9.107155799865723
+        }
+      ],
+      "evidence": [
+        {
+          "id": 1,
+          "chunk_id": "imtahan_qaydalari_p004_c001",
+          "page": 4,
+          "section": "3.2",
+          "text": "- Sualların 40%-i asan, 40%-i orta, 20%-i çətin olmaqla tərtib edilir;"
+        },
+        {
+          "id": 2,
+          "chunk_id": "imtahan_qaydalari_p008_c001",
+          "page": 8,
+          "section": "3.8",
+          "text": "- Hazırlanan case study-lər müvafiq"
+        },
+        {
+          "id": 3,
+          "chunk_id": "imtahan_qaydalari_p004_c001",
+          "page": 4,
+          "section": "3.2",
+          "text": "- Qiymətləndirmə 0-10 bal arasında"
+        },
+        {
+          "id": 4,
+          "chunk_id": "imtahan_qaydalari_p004_c001",
+          "page": 4,
+          "section": "3.1",
+          "text": "- Test suallarının 40%-i asan, 40%-i orta, 20%-i çətin olmaqla tərtib edilir;"
+        },
+        {
+          "id": 5,
+          "chunk_id": "imtahan_qaydalari_p004_c001",
+          "page": 4,
+          "section": "3.1",
+          "text": "- Hər test sualının düzgün cavablandırılması 1 balla qiymətləndiriləcək (bəzi hallarda qiymətləndirmə meyarları dəyişdirilə bilər). 3.2."
+        },
+        {
+          "id": 6,
+          "chunk_id": "imtahan_qaydalari_p004_c001",
+          "page": 4,
+          "section": "3.2",
+          "text": "Bir bilet 5 sualdan ibarət olur."
+        }
+      ],
+      "model_selection": {
+        "evidence_id": 0
+      },
+      "retrieval_enabled": true
+    },
+    "declined": true
+  }
+]

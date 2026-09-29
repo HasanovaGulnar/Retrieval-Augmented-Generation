@@ -1,0 +1,10 @@
+{
+  "embedding_model": "intfloat/multilingual-e5-small",
+  "dimension": 384,
+  "chunk_count": 38,
+  "normalize_embeddings": true,
+  "document_prefix": "passage: ",
+  "query_prefix": "query: ",
+  "similarity": "cosine",
+  "chunks_sha256": "006292ede1a42ce4347b70b66693bca6d0d014ab38de04201d3fe9b93eb4eb3b"
+}

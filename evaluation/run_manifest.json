@@ -1,0 +1,47 @@
+{
+  "model": "llama3.2:latest",
+  "reranker": "cross-encoder/mmarco-mMiniLMv2-L12-H384-v1",
+  "k": 3,
+  "started_at": "2026-09-27T11:42:18.911112+00:00",
+  "index_sha256": "2364b3cb079e785e789f8bc448acc723a79d08abe9d196b38d8745a19910043e",
+  "code_sha256": {
+    "ask.py": "07d40b65e80abe0148884519b1115c2ec1cc7c0acdf5183dc481e5ff12ec6110",
+    "build_index.py": "22052825a09419e0730da97956f45f2619a60c356409753e23fa270fc1254e6b",
+    "chunk_text.py": "48447139825cb42101951e780dde1da5c433606cb187e86879134aee21598427",
+    "evaluate.py": "43de81aa9e83043cd49781908202178f95a5c242f967d5e03dcaedbd4e12b043",
+    "evidence.py": "2c0661a1e4263cc4659876f08fb9f0d2f0c128cdf2cb0eb72d006ea4372864d2",
+    "extract_text.py": "6163ee5154aa879f306711d30a7661bec6a59a54cc691d3b64d06055b8f2e7ca",
+    "finish.py": "cb5d3aba998d4dee89155610d7ba63d6edabf2bfc24817ca8247cf10adeb94db",
+    "retrieve.py": "2874e0b00e2974d96ec7776702a3ed3a6749efd234ee68f790b4f29fd25a453a",
+    "test_sentences.py": "740d547f8c91c8c686d004fe667adc2bdb8232bb515c49c09449af6fc7adcf66"
+  },
+  "completed_at": "2026-09-27T11:43:42.696210+00:00",
+  "errors": [],
+  "installed_generation_model": {
+    "name": "llama3.2:latest",
+    "model": "llama3.2:latest",
+    "modified_at": "2026-09-25T14:32:34.2701006+04:00",
+    "size": 2019393189,
+    "digest": "a80c4f17acd55265feec403c7aef86be0c25983ab279d83f3bcd3abbcb5b8b72",
+    "details": {
+      "parent_model": "",
+      "format": "gguf",
+      "family": "llama",
+      "families": [
+        "llama"
+      ],
+      "parameter_size": "3.2B",
+      "quantization_level": "Q4_K_M",
+      "context_length": 131072,
+      "embedding_length": 3072
+    },
+    "capabilities": [
+      "completion",
+      "tools"
+    ]
+  },
+  "post_run_changes": [
+    "finish.py report title changed; inference code unchanged.",
+    "Manual generation review completed from source passages."
+  ]
+}

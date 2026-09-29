@@ -1,0 +1,331 @@
+[
+  {
+    "question": "Apellyasiya Qaydaları adlı 5-ci bölmədə müraciət müddəti nədir?",
+    "rag": {
+      "mode": "rag",
+      "model": "qwen2.5:3b",
+      "status": "answered",
+      "answer": "Apellyasiya müraciət etməyən tələbənin imtahan işinə baxılmağa icazə verilir.\n\nMənbələr: [imtahan_qaydalari_p021_c001]",
+      "citations": [
+        "imtahan_qaydalari_p021_c001"
+      ],
+      "retrieved": [
+        {
+          "chunk_id": "imtahan_qaydalari_p021_c001",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 21,
+          "word_start": 0,
+          "word_end": 140,
+          "word_count": 140,
+          "text": "- Təhsilalanlara qarşı ş əxsi q ərəz nümayiş etdirm ək (daima yanında dayanmaq, onun diqqətini imtahandan yayındırmaq və s.); - Təhsilalanların şəxsiyyəti, onun xarici görünüşü ilə əlaqəli istənilən təhqiredici ifadələrdən istifadə etmək; - İmtahan gedişinə maneə yaradan və mövcud qaydalardan kənar istənilən davranışa yol vermək. 5. Apellyasiya Qaydaları - Nəticədən narazı olan tələbə, nəticələrin elan edildiyi gündən 24 saat ərzində Apellyasiya Komissiyasina ərizəsi ilə müraciət etməlidir. - Müraciət qəbul edildikdən sonra gün təyin edilir və Komissiya üzvləri tələbənin müraciətinə baxılır; - Nəticəyə uyğun olaraq qərar qəbul edilir. Qərarda tələbənin topladığı qiymət olduğu kimi saxlanılır, yaxud dəyişiklik öz əksini tapır; - Apellyasiya müraciət etməyən tələbənin imtahan işinə baxılmağa icazə verilmir. 6. Yekun müddəa - Qaydaya əlavə və dəyişikliklər Az ərbaycan Texniki Universitetinin rektoru t ərəfindən təsdiq olunur; - Hər semestrin sonunda bu Qaydaya uyğun olaraq imtahanın t əşkiliylə bağlı əmr hazırlanır.",
+          "score": 0.8619992136955261,
+          "rerank_score": -0.6422631740570068
+        },
+        {
+          "chunk_id": "imtahan_qaydalari_p018_c002",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 18,
+          "word_start": 150,
+          "word_end": 268,
+          "word_count": 118,
+          "text": "imtahana cavab verdikd ən sonra yekun balı barədə məlumatı imtahan götürən müəllimdən tələb etmək;  İmtahan prosesində meydana çıxan hər hansı problemlə əlaqədar nəzarətçiyə müraciət etmək və problemin aradan qaldırılmasını tələb etmək;  İmtahanın obyektiv və qərəzsiz şəkildə aparılmasını imtahan götürən müəllimdən tələb etmək;  İmtahan nəticələrinin qiymətləndirilməsindən və ya sualların (testl ərin) tərtibatından narazılığı olduğu halda, 3 iş günü ərzində Apellyasiya komissiyasına müraciət etmək. - Təhsilalanların vəzifələri:  İmtahan başlamazdan əvvəl şəxsi kabinetə daxil olaraq imtahan şifrəsini əldə etmək;  Yeni sistemlə və şifahi (yazılı) imtahan başlamazdan 10 dəqiqə əvvəl imtahan zalına gəlmək;  Tələbə biletini (t ələbə bileti olmazsa, ş əxsiyyəti t əsdiq ed ən s ənədi) imtahana gətirmək və imtahan prosesinin sonunadək masanın üzərində saxlamaq;",
+          "score": 0.8479374647140503,
+          "rerank_score": -1.2782946825027466
+        },
+        {
+          "chunk_id": "imtahan_qaydalari_p015_c001",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 15,
+          "word_start": 0,
+          "word_end": 180,
+          "word_count": 180,
+          "text": "- Bilavasitə müraciət etdiyi halda imtahan nəticəsinin ləğvinə əsas yaradan kamera görüntüsü təhsilalana İnformasiya Tədris Mərkəzi əməkdaşları tərəfindən izlədilir; - Təhsilalan imtahan nəticəsindən narazı qaldığı halda Apellyasiya komissiyasına müraciət edir. 4.4. Üzrlü və fənni dinləmədən təkrar imtahanlar - Üzrlü səbəbdən imtahanlarda iştirak edə bilməyən təhsilalanlar üçün akademik təqvimlə müəyyən edilmiş dövrlərdə dekanlar, İTM və YTİ -nin direktoru tərəfindən müvafiq qaydada rektorla razılaşdırılmaqla imtahanlar keçirilir; - Təhsilalanlar üçün bir semestrdə cari və əvvəlki semestrlərdən yaranmış akademik borcların ləğvi məqsədilə maksimum 2 fəndən təkrar imtahan keçirilir. Bu məhdudiyyətin gözlənilməsinə fakültə dekanları, İTM və YTİ-nin direktoru məsul hesab edilir; - Alt qrupda dinlədiyi fəndən nəticəsi “Qeyri-müvəffəq” və ya “Gəlmədi” olan təhsilalanlara həmin fənn (fənlər) üzrə də təkrar imtahan keçirilir; - Əvvəlki semestrlərdən yaranan akademik borc üzrə təkrar imtahan təhsilalanın həmin fənni (fənləri) son dəfə dinlədiyi semestr ərzində topladığı imtahana qədər bal əsasında təyin olunur. Bir qayda olaraq təkrar imtahan təyin edilən zaman yay semestri nəticələrinə istinad olunmur; - Təhsilalan son dəfə fənni (fənləri) dinlədiyi zaman davamiyyət limitini keçdiyi halda, onun həmin fənn üzrə əvvəlki istənilən imtahanaqədər topladığı bal əsasında təkrar imtahan təyin olunmur.",
+          "score": 0.8452633619308472,
+          "rerank_score": -3.762357473373413
+        }
+      ]
+    },
+    "baseline": {
+      "mode": "baseline",
+      "model": "qwen2.5:3b",
+      "answer": "Apellyasiya qaydaları adlı bölmədə 5-ci müraciət müddəti ən az 24 saat olaraq təqdim olunmalıdır.",
+      "citations": [],
+      "retrieved": []
+    },
+    "review": {
+      "rag_supported_by_sources": null,
+      "citations_correct": null,
+      "meaningful_difference": null
+    }
+  },
+  {
+    "question": "4.7-ci bölmədə tələbənin apellyasiya üçün müraciət müddəti nədir?",
+    "rag": {
+      "mode": "rag",
+      "model": "qwen2.5:3b",
+      "status": "answered",
+      "answer": "Tələbən 24 saat ərzində apellyasiya komissiyasına müraciət etməlidir.\n\nMənbələr: [imtahan_qaydalari_p021_c001]",
+      "citations": [
+        "imtahan_qaydalari_p021_c001"
+      ],
+      "retrieved": [
+        {
+          "chunk_id": "imtahan_qaydalari_p018_c002",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 18,
+          "word_start": 150,
+          "word_end": 268,
+          "word_count": 118,
+          "text": "imtahana cavab verdikd ən sonra yekun balı barədə məlumatı imtahan götürən müəllimdən tələb etmək;  İmtahan prosesində meydana çıxan hər hansı problemlə əlaqədar nəzarətçiyə müraciət etmək və problemin aradan qaldırılmasını tələb etmək;  İmtahanın obyektiv və qərəzsiz şəkildə aparılmasını imtahan götürən müəllimdən tələb etmək;  İmtahan nəticələrinin qiymətləndirilməsindən və ya sualların (testl ərin) tərtibatından narazılığı olduğu halda, 3 iş günü ərzində Apellyasiya komissiyasına müraciət etmək. - Təhsilalanların vəzifələri:  İmtahan başlamazdan əvvəl şəxsi kabinetə daxil olaraq imtahan şifrəsini əldə etmək;  Yeni sistemlə və şifahi (yazılı) imtahan başlamazdan 10 dəqiqə əvvəl imtahan zalına gəlmək;  Tələbə biletini (t ələbə bileti olmazsa, ş əxsiyyəti t əsdiq ed ən s ənədi) imtahana gətirmək və imtahan prosesinin sonunadək masanın üzərində saxlamaq;",
+          "score": 0.8462795615196228,
+          "rerank_score": 0.19792309403419495
+        },
+        {
+          "chunk_id": "imtahan_qaydalari_p021_c001",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 21,
+          "word_start": 0,
+          "word_end": 140,
+          "word_count": 140,
+          "text": "- Təhsilalanlara qarşı ş əxsi q ərəz nümayiş etdirm ək (daima yanında dayanmaq, onun diqqətini imtahandan yayındırmaq və s.); - Təhsilalanların şəxsiyyəti, onun xarici görünüşü ilə əlaqəli istənilən təhqiredici ifadələrdən istifadə etmək; - İmtahan gedişinə maneə yaradan və mövcud qaydalardan kənar istənilən davranışa yol vermək. 5. Apellyasiya Qaydaları - Nəticədən narazı olan tələbə, nəticələrin elan edildiyi gündən 24 saat ərzində Apellyasiya Komissiyasina ərizəsi ilə müraciət etməlidir. - Müraciət qəbul edildikdən sonra gün təyin edilir və Komissiya üzvləri tələbənin müraciətinə baxılır; - Nəticəyə uyğun olaraq qərar qəbul edilir. Qərarda tələbənin topladığı qiymət olduğu kimi saxlanılır, yaxud dəyişiklik öz əksini tapır; - Apellyasiya müraciət etməyən tələbənin imtahan işinə baxılmağa icazə verilmir. 6. Yekun müddəa - Qaydaya əlavə və dəyişikliklər Az ərbaycan Texniki Universitetinin rektoru t ərəfindən təsdiq olunur; - Hər semestrin sonunda bu Qaydaya uyğun olaraq imtahanın t əşkiliylə bağlı əmr hazırlanır.",
+          "score": 0.8565818071365356,
+          "rerank_score": 0.061596982181072235
+        },
+        {
+          "chunk_id": "imtahan_qaydalari_p015_c001",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 15,
+          "word_start": 0,
+          "word_end": 180,
+          "word_count": 180,
+          "text": "- Bilavasitə müraciət etdiyi halda imtahan nəticəsinin ləğvinə əsas yaradan kamera görüntüsü təhsilalana İnformasiya Tədris Mərkəzi əməkdaşları tərəfindən izlədilir; - Təhsilalan imtahan nəticəsindən narazı qaldığı halda Apellyasiya komissiyasına müraciət edir. 4.4. Üzrlü və fənni dinləmədən təkrar imtahanlar - Üzrlü səbəbdən imtahanlarda iştirak edə bilməyən təhsilalanlar üçün akademik təqvimlə müəyyən edilmiş dövrlərdə dekanlar, İTM və YTİ -nin direktoru tərəfindən müvafiq qaydada rektorla razılaşdırılmaqla imtahanlar keçirilir; - Təhsilalanlar üçün bir semestrdə cari və əvvəlki semestrlərdən yaranmış akademik borcların ləğvi məqsədilə maksimum 2 fəndən təkrar imtahan keçirilir. Bu məhdudiyyətin gözlənilməsinə fakültə dekanları, İTM və YTİ-nin direktoru məsul hesab edilir; - Alt qrupda dinlədiyi fəndən nəticəsi “Qeyri-müvəffəq” və ya “Gəlmədi” olan təhsilalanlara həmin fənn (fənlər) üzrə də təkrar imtahan keçirilir; - Əvvəlki semestrlərdən yaranan akademik borc üzrə təkrar imtahan təhsilalanın həmin fənni (fənləri) son dəfə dinlədiyi semestr ərzində topladığı imtahana qədər bal əsasında təyin olunur. Bir qayda olaraq təkrar imtahan təyin edilən zaman yay semestri nəticələrinə istinad olunmur; - Təhsilalan son dəfə fənni (fənləri) dinlədiyi zaman davamiyyət limitini keçdiyi halda, onun həmin fənn üzrə əvvəlki istənilən imtahanaqədər topladığı bal əsasında təkrar imtahan təyin olunmur.",
+          "score": 0.8420708179473877,
+          "rerank_score": -1.6857752799987793
+        }
+      ]
+    },
+    "baseline": {
+      "mode": "baseline",
+      "model": "qwen2.5:3b",
+      "answer": "4.7-ci bölmədə tələbənin apellyasiya üçün müraciət müddəti 15 gün olur.",
+      "citations": [],
+      "retrieved": []
+    },
+    "review": {
+      "rag_supported_by_sources": null,
+      "citations_correct": null,
+      "meaningful_difference": null
+    }
+  },
+  {
+    "question": "İmtahan zalına hansı əşyaları gətirmək qadağandır?",
+    "rag": {
+      "mode": "rag",
+      "model": "qwen2.5:3b",
+      "status": "answered",
+      "answer": "İmtahan zalına telefon, kalkulyator, konspekt, qeydiyyat kitabçası, çanta və s. texniki vasitələri gətirmək qadağandır.\n\nMənbələr: [imtahan_qaydalari_p019_c001], [imtahan_qaydalari_p016_c002], [imtahan_qaydalari_p020_c002]",
+      "citations": [
+        "imtahan_qaydalari_p019_c001",
+        "imtahan_qaydalari_p016_c002",
+        "imtahan_qaydalari_p020_c002"
+      ],
+      "retrieved": [
+        {
+          "chunk_id": "imtahan_qaydalari_p019_c001",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 19,
+          "word_start": 0,
+          "word_end": 180,
+          "word_count": 180,
+          "text": " İmtahan zalına daxil olan tələbənin nəzarətçinin göstərişi ilə ona təyin olunan kompüterin arxasında əyləşmək;  İmtahan prosesində sakitliyə riayət etmək;  İmtahan bitdikdə, imtahan zalını tərk etmək. - Tələbəyə imtahanda nə qadağandır?  Digər tələbələrlə danışmaq, onlara mane olmaq, imtahanda səs salmaq;  Kitabdan, mühazirə konspektlərindən və digər icazə verilməyən materiallardan istifadə etmək və köçürmək;  İmtahan zalına cib telefonu, kalkulyator, konspekt, qeydiyyat kitabçası, çanta və s. texniki vasitələri gətirmək;  Hər hansı bir səbəbə görə imtahan zalını tərk edib yenidən geri dönmək;  Başqa tələbənin şifrəsi ilə imtahan verməyə cəhd etmək;  Başqa tələbənin əvəzinə imtahan vermək;  İmtahan prosesində digər tələbələrlə məsləhətləşmək, onların monitorlarına baxmaq;  Tələbənin kompüterin proqram təminatını korlaması və texniki vəziyyətinə zərər yetirməsi;  İntizamsızlıq göstərmək:  Zalda gəzişmək, yerini dəyişmək, kiminsə köməyindən istifadə etmək , kim əsə kömək etmək və bu kimi hallarla imtahanın gedişinə mane olmaq. Qeyd: 1.Göstərilən qaydalara əməl etməyən tələbə imtahandan xaric edilir və imtahanın nəticəsinə görə ona “0” (sıfır) bal müəyyənləşdirilir. 2. Yalnız zəruri hallarda tələbə yerini səlahiyyətli şəxslərin icazəsi ilə dəyişə bilər. 3. Tələbə qoyulan qaydaların tələblərinə əməl",
+          "score": 0.8811063766479492,
+          "rerank_score": 2.802908182144165
+        },
+        {
+          "chunk_id": "imtahan_qaydalari_p016_c002",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 16,
+          "word_start": 150,
+          "word_end": 270,
+          "word_count": 120,
+          "text": "və təhsilalanlar barəsində müvafiq intizam tədbirlərinin görülməsinə əsas yaradır: - İmtahan başlayandan sonra təhsilalandan konspekt, mobil telefon, “ağıllı” saat, mikroqulaqcıq, məsafədən ötürmə cihazı və s. digər yardımçı vasitənin aşkar edilməsi; - İmtahanı keçirilən fənnə aid qeydlər olan kağızın, mobil telefonun bir təhsilalanın digərinə verməsi və ya digərindən alması; - İmtahanda digər təhsilalanın yazısından köçürməyə cəhd etməsi və ya köçürməsi; - İmtahanda nəzarətçinin və ya imtahana məsul şəxsin əsaslı xəbərdarlığına qarşı etiraz və ya kobud rəftar edilməsi, habelə zalda səs-küy yaradılması; - Başqa bir təhsilalanın əvəzinə imtahan verməyə cəhd edilməsi və ya imtahan verməsinin aşkar olunması; - İmtahan bitdikdən cavab vərəqini nəzarətçiyə təhvil vermədən təhsilalanın imtahan zalını tərk etməsi; - Təhsilalanın hər hansı bir üzrlü səbəb olmadan nəzarətçilərdən icazəsiz zalı (auditoriyanı)",
+          "score": 0.8439408540725708,
+          "rerank_score": -1.9873206615447998
+        },
+        {
+          "chunk_id": "imtahan_qaydalari_p020_c002",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 20,
+          "word_start": 150,
+          "word_end": 261,
+          "word_count": 111,
+          "text": "Tərtib edilmiş intizam pozuntusuna dair protokolun əslini fakültə imtahan komissiyasına, surətini İnformasiya Tədris Mərkəzinin nümayəndəsinə təqdim etmək; - Digər növbə nəzarətçisi zala daxil olmadan imtahan zalını tərk etməmək; - İmtahanın başlanma vaxtından etibar ən 15 d əqiqə ərzində heç bir t əhsilalanın zalı t ərk etməsinə imkan verməmək v ə imtahan başladıqdan 15 d əqiqə sonra imtahana g ələn təhsilalanların imtahan zalına daxil olmasına icazə verməmək; 4.9. İmtahan nəzarətçilərinə qadağandır: - İmtahan zamanı söhbət etmək; - İstənilən məsələ ilə əlaqədar yüksək səslə müraciət etmək; - Təhsilalanlara irad bildirən zaman etik qaydalara riayət etmək, səs tonunu yüksəltmək və zalda səs-küy yaratmaq; - Ciddi şübhə olmadıqda təhsilalanı ayağa qaldırmaq və onun vaxtını almaq;",
+          "score": 0.8570805788040161,
+          "rerank_score": -2.57804012298584
+        }
+      ]
+    },
+    "baseline": {
+      "mode": "baseline",
+      "model": "qwen2.5:3b",
+      "answer": "İmtahan zalına qadagandır əşyalaları gətirmək, amma konkret məlumat yoxdur. Zalının təşkilatı və istifadəsi ilə bağlı olaraq gətirilmək məşq edən əşyalalar olacaq.",
+      "citations": [],
+      "retrieved": []
+    },
+    "review": {
+      "rag_supported_by_sources": null,
+      "citations_correct": null,
+      "meaningful_difference": null
+    }
+  },
+  {
+    "question": "İmtahan qaydalarını pozaraq zaldan xaric edilən tələbəyə neçə bal verilir?",
+    "rag": {
+      "mode": "rag",
+      "model": "qwen2.5:3b",
+      "status": "answered",
+      "answer": "İmtahan qaydalarına görə, tələbə imtahandan xaric edilir və imtahanın nəticəsinə görə ona '0' (sıfır) bal müəyyənləşdirilir.\n\nMənbələr: [imtahan_qaydalari_p019_c001], [imtahan_qaydalari_p019_c002]",
+      "citations": [
+        "imtahan_qaydalari_p019_c001",
+        "imtahan_qaydalari_p019_c002"
+      ],
+      "retrieved": [
+        {
+          "chunk_id": "imtahan_qaydalari_p019_c001",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 19,
+          "word_start": 0,
+          "word_end": 180,
+          "word_count": 180,
+          "text": " İmtahan zalına daxil olan tələbənin nəzarətçinin göstərişi ilə ona təyin olunan kompüterin arxasında əyləşmək;  İmtahan prosesində sakitliyə riayət etmək;  İmtahan bitdikdə, imtahan zalını tərk etmək. - Tələbəyə imtahanda nə qadağandır?  Digər tələbələrlə danışmaq, onlara mane olmaq, imtahanda səs salmaq;  Kitabdan, mühazirə konspektlərindən və digər icazə verilməyən materiallardan istifadə etmək və köçürmək;  İmtahan zalına cib telefonu, kalkulyator, konspekt, qeydiyyat kitabçası, çanta və s. texniki vasitələri gətirmək;  Hər hansı bir səbəbə görə imtahan zalını tərk edib yenidən geri dönmək;  Başqa tələbənin şifrəsi ilə imtahan verməyə cəhd etmək;  Başqa tələbənin əvəzinə imtahan vermək;  İmtahan prosesində digər tələbələrlə məsləhətləşmək, onların monitorlarına baxmaq;  Tələbənin kompüterin proqram təminatını korlaması və texniki vəziyyətinə zərər yetirməsi;  İntizamsızlıq göstərmək:  Zalda gəzişmək, yerini dəyişmək, kiminsə köməyindən istifadə etmək , kim əsə kömək etmək və bu kimi hallarla imtahanın gedişinə mane olmaq. Qeyd: 1.Göstərilən qaydalara əməl etməyən tələbə imtahandan xaric edilir və imtahanın nəticəsinə görə ona “0” (sıfır) bal müəyyənləşdirilir. 2. Yalnız zəruri hallarda tələbə yerini səlahiyyətli şəxslərin icazəsi ilə dəyişə bilər. 3. Tələbə qoyulan qaydaların tələblərinə əməl",
+          "score": 0.86986243724823,
+          "rerank_score": 1.1831138134002686
+        },
+        {
+          "chunk_id": "imtahan_qaydalari_p019_c002",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 19,
+          "word_start": 150,
+          "word_end": 237,
+          "word_count": 87,
+          "text": "imtahandan xaric edilir və imtahanın nəticəsinə görə ona “0” (sıfır) bal müəyyənləşdirilir. 2. Yalnız zəruri hallarda tələbə yerini səlahiyyətli şəxslərin icazəsi ilə dəyişə bilər. 3. Tələbə qoyulan qaydaların tələblərinə əməl etmədikdə ilkin xəbərdarlıq edilir, bu hal təkrarlandıqda aidiyyəti fakültə rəhbərliyinə məlumat verilir və barəsində müvafiq akt tərtib edilməklə həmin tələbə imtahandan çıxarılır. 4.8. İmtahan nəzarətçilərinin vəzifə təlimati - İmtahan başlamazdan 20 d əqiqə əvvəl imtahan zalına g əlmək və cədvəl üzrə imtahan saatında t əhsilalanların zala daxil olmasını t əmin etm ək üçün hazırlıq işl ərini (otağın",
+          "score": 0.8486324548721313,
+          "rerank_score": 0.8707736730575562
+        },
+        {
+          "chunk_id": "imtahan_qaydalari_p017_c001",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 17,
+          "word_start": 0,
+          "word_end": 180,
+          "word_count": 180,
+          "text": "tərk etməsi; - Təhsilalanların intizam pozuntusu halına yol verməsi faktı aşkar olund uqda, ilk dəfə tələbəyə xəbərdarlıq edilir, imtahanı davam etməsinə icazə verilir. İkinci dəfə qayda pozularsa, tələbə imtahandan çıxarılır, dərhal protokol tərtib olunur və imtahan nəticəsi ləğv edilir. Protokol imtahan nəzarətçiləri, fakültə, İTM və YTİ-nin, habelə İnformasiya Tədris Mərkəzinin əməkdaşı və təhsilalan tərəfindən imzalanır; - Barəsində protokol tərtib edilən təhsilalan protokolu imzalamaqla imtahan zalını və ya bu məqsədlə təyin olunmuş auditoriyanı tərk edir. Təhsilalan protokolu imzalamaqdan imtina etdiyi halda bu barədə protokolda nəzarətçilər tərəfindən müvafiq qeydiyyat aparılır; - Protokolun əsli aidiyyəti üzrə fakültə (YTİ) dekanlığına, surəti İTM-ə təqdim edilir; - Protokol tərtib olunan təhsilalanların imtahan nəticələri İTM-in xidməti məruzəsi və AzTU rektorunun müvafiq əmrinə əsasən ləğv edilir; - Struktur bölmə üzrə intizam komissiyası tərəfindən aparılan araşdırma zamanı təhsilalan barəsində tərtib edilmiş protokolun əsassız olması halı aşkar edildiyi halda, təhsilalan tərəfindən imtaha n nəticəsinin bərpa olunması, imtahanın yenidən təşkil edilməsi və protokolun ləğv edilməsi ilə bağlı rektora müvafiq qaydada müraciət edilir. 4.6. İmtahan qəbul edənin (müəllimin) hüquq və vəzifələri - İmtahan qəbul edənin hüquqları:  Təhsilalanlardan imtahan zamanı səssiz olmağı",
+          "score": 0.8498924970626831,
+          "rerank_score": -2.1675612926483154
+        }
+      ]
+    },
+    "baseline": {
+      "mode": "baseline",
+      "model": "qwen2.5:3b",
+      "answer": "İmtahan qaydaları ilə bağlı məlumat yoxdur və buna uyğun olaraq, sənət qaydaları haqqında məlumat yoxdur.",
+      "citations": [],
+      "retrieved": []
+    },
+    "review": {
+      "rag_supported_by_sources": null,
+      "citations_correct": null,
+      "meaningful_difference": null
+    }
+  },
+  {
+    "question": "İmtahan başlayandan neçə dəqiqə sonra gecikmiş tələbə zala buraxılmır?",
+    "rag": {
+      "mode": "rag",
+      "model": "qwen2.5:3b",
+      "status": "answered",
+      "answer": "İmtahan başlayandan 15 dəqiqə sonra gecikmiş tələbə zala buraxılmır.\n\nMənbələr: [imtahan_qaydalari_p014_c002], [imtahan_qaydalari_p020_c002]",
+      "citations": [
+        "imtahan_qaydalari_p014_c002",
+        "imtahan_qaydalari_p020_c002"
+      ],
+      "retrieved": [
+        {
+          "chunk_id": "imtahan_qaydalari_p014_c002",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 14,
+          "word_start": 150,
+          "word_end": 324,
+          "word_count": 174,
+          "text": "50 testdən ibarət bilet formalaşdırılaraq təqdim olunur. Təhsilalana sualların cavablandırılması üçün 60 dəqiqə vaxt verilir. Testlərin ümumi sayının 40 faizi asan, 40 faizi orta, 20 faizi isə çətin testlərdən ibarət olur. Test üsulu ilə imtahanda hər bir test sualının cavabı həm əyani, həm də qiyabi təhsilalma forması üzrə 1 ballıq şkala üzrə qiymətləndirilir. Səhv cavabların sayı yekun bala təsir göstərmir. Test imtahanının nəticəsi haqqında məlumat təhsilalan tərəfindən imtahan bitirildiyi zaman ekranda görünür və onların şəxsi kabinetində yerləşdirilir. Elektron imtahan vərəqləri sistem tərəfindən növbəti gün formalaşdırılır; - İstənilən üsulda keçirilən imtahana maksimum 10 dəqiqə gecikməyə icazə verilir. Bu halda təhsilalanın ümumi imtahan vaxtı onun gecikdiyi müddət qədər azalır və imtahanlar hər kəs üçün eyni vaxtda bitir; - İmtahanda aşkar olunan hər hansı anlaşılmazlıq və ya texniki problem olduğu halda təhsilalanlar nəzarətçilərə bu barədə bildirir. Nəzarətçilər yaranmış problem haqqında protokol tərtib edərək, qərar verilməsi üçün rəhbərliyə təqdim edir. İmtahan bitdikdən sonra təhsilalanların qeyd olunan məsələlərlə bağlı müraciətlərinə baxılmır; - Səhhətində yaranan narahatlıq halı istisna olmaqla imtahan zalını (otağını) icazəsiz tərk edən təhsilalan həmin imtahana yenidən buraxılmır;",
+          "score": 0.8291504383087158,
+          "rerank_score": 0.45495760440826416
+        },
+        {
+          "chunk_id": "imtahan_qaydalari_p020_c002",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 20,
+          "word_start": 150,
+          "word_end": 261,
+          "word_count": 111,
+          "text": "Tərtib edilmiş intizam pozuntusuna dair protokolun əslini fakültə imtahan komissiyasına, surətini İnformasiya Tədris Mərkəzinin nümayəndəsinə təqdim etmək; - Digər növbə nəzarətçisi zala daxil olmadan imtahan zalını tərk etməmək; - İmtahanın başlanma vaxtından etibar ən 15 d əqiqə ərzində heç bir t əhsilalanın zalı t ərk etməsinə imkan verməmək v ə imtahan başladıqdan 15 d əqiqə sonra imtahana g ələn təhsilalanların imtahan zalına daxil olmasına icazə verməmək; 4.9. İmtahan nəzarətçilərinə qadağandır: - İmtahan zamanı söhbət etmək; - İstənilən məsələ ilə əlaqədar yüksək səslə müraciət etmək; - Təhsilalanlara irad bildirən zaman etik qaydalara riayət etmək, səs tonunu yüksəltmək və zalda səs-küy yaratmaq; - Ciddi şübhə olmadıqda təhsilalanı ayağa qaldırmaq və onun vaxtını almaq;",
+          "score": 0.8393268585205078,
+          "rerank_score": 0.24134229123592377
+        },
+        {
+          "chunk_id": "imtahan_qaydalari_p018_c002",
+          "document_id": "imtahan_qaydalari",
+          "title": "AzTU — Qiymətləndirmə və imtahanın təşkili qaydaları",
+          "source_url": "https://www.aztu.edu.az/web_admin/upload/files/aztu.edu.az/menus/4-2025/Qiym%C9%99tl%C9%99ndirm%C9%99%20v%C9%99%20imtahan%C4%B1n%20t%C9%99%C5%9Fkili%20qaydalar%C4%B1-%20%281%29.pdf",
+          "page": 18,
+          "word_start": 150,
+          "word_end": 268,
+          "word_count": 118,
+          "text": "imtahana cavab verdikd ən sonra yekun balı barədə məlumatı imtahan götürən müəllimdən tələb etmək;  İmtahan prosesində meydana çıxan hər hansı problemlə əlaqədar nəzarətçiyə müraciət etmək və problemin aradan qaldırılmasını tələb etmək;  İmtahanın obyektiv və qərəzsiz şəkildə aparılmasını imtahan götürən müəllimdən tələb etmək;  İmtahan nəticələrinin qiymətləndirilməsindən və ya sualların (testl ərin) tərtibatından narazılığı olduğu halda, 3 iş günü ərzində Apellyasiya komissiyasına müraciət etmək. - Təhsilalanların vəzifələri:  İmtahan başlamazdan əvvəl şəxsi kabinetə daxil olaraq imtahan şifrəsini əldə etmək;  Yeni sistemlə və şifahi (yazılı) imtahan başlamazdan 10 dəqiqə əvvəl imtahan zalına gəlmək;  Tələbə biletini (t ələbə bileti olmazsa, ş əxsiyyəti t əsdiq ed ən s ənədi) imtahana gətirmək və imtahan prosesinin sonunadək masanın üzərində saxlamaq;",
+          "score": 0.8434217572212219,
+          "rerank_score": -2.3619306087493896
+        }
+      ]
+    },
+    "baseline": {
+      "mode": "baseline",
+      "model": "qwen2.5:3b",
+      "answer": "Gecikmiş tələbə zala gecikmədən 15 dəqiqə sonra buraxılır.",
+      "citations": [],
+      "retrieved": []
+    },
+    "review": {
+      "rag_supported_by_sources": null,
+      "citations_correct": null,
+      "meaningful_difference": null
+    }
+  }
+]

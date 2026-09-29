@@ -1,0 +1,106 @@
+{
+  "k": 3,
+  "hit_rate": 1.0,
+  "results": [
+    {
+      "question": "Apellyasiya Qaydaları adlı 5-ci bölmədə müraciət müddəti nədir?",
+      "expected_chunk": "imtahan_qaydalari_p021_c001",
+      "retrieved_chunks": [
+        "imtahan_qaydalari_p021_c001",
+        "imtahan_qaydalari_p018_c002",
+        "imtahan_qaydalari_p015_c001"
+      ],
+      "hit": true
+    },
+    {
+      "question": "4.7-ci bölmədə tələbənin apellyasiya üçün müraciət müddəti nədir?",
+      "expected_chunk": "imtahan_qaydalari_p018_c002",
+      "retrieved_chunks": [
+        "imtahan_qaydalari_p018_c002",
+        "imtahan_qaydalari_p021_c001",
+        "imtahan_qaydalari_p015_c001"
+      ],
+      "hit": true
+    },
+    {
+      "question": "İmtahan zalına hansı əşyaları gətirmək qadağandır?",
+      "expected_chunk": "imtahan_qaydalari_p019_c001",
+      "retrieved_chunks": [
+        "imtahan_qaydalari_p019_c001",
+        "imtahan_qaydalari_p016_c002",
+        "imtahan_qaydalari_p020_c002"
+      ],
+      "hit": true
+    },
+    {
+      "question": "İmtahan qaydalarını pozaraq zaldan xaric edilən tələbəyə neçə bal verilir?",
+      "expected_chunk": "imtahan_qaydalari_p019_c001",
+      "retrieved_chunks": [
+        "imtahan_qaydalari_p019_c001",
+        "imtahan_qaydalari_p019_c002",
+        "imtahan_qaydalari_p017_c001"
+      ],
+      "hit": true
+    },
+    {
+      "question": "4.8-ci bölmədə i̇mtahan başlayandan neçə dəqiqə sonra gecikmiş tələbə zala buraxılmır?",
+      "expected_chunk": "imtahan_qaydalari_p020_c002",
+      "retrieved_chunks": [
+        "imtahan_qaydalari_p020_c002",
+        "imtahan_qaydalari_p019_c002",
+        "imtahan_qaydalari_p017_c002"
+      ],
+      "hit": true
+    },
+    {
+      "question": "Apellyasiya müraciəti etməyən tələbənin imtahan işinə baxıla bilərmi?",
+      "expected_chunk": "imtahan_qaydalari_p021_c001",
+      "retrieved_chunks": [
+        "imtahan_qaydalari_p021_c001",
+        "imtahan_qaydalari_p015_c001",
+        "imtahan_qaydalari_p019_c001"
+      ],
+      "hit": true
+    },
+    {
+      "question": "İmtahan qaydalarına əlavə və dəyişiklikləri kim təsdiq edir?",
+      "expected_chunk": "imtahan_qaydalari_p021_c001",
+      "retrieved_chunks": [
+        "imtahan_qaydalari_p021_c001",
+        "imtahan_qaydalari_p011_c001",
+        "imtahan_qaydalari_p016_c001"
+      ],
+      "hit": true
+    },
+    {
+      "question": "Elektron sistemdə yazılı imtahanın nəticəsini tələbə neçə gün sonra əldə edir?",
+      "expected_chunk": "imtahan_qaydalari_p018_c001",
+      "retrieved_chunks": [
+        "imtahan_qaydalari_p018_c001",
+        "imtahan_qaydalari_p014_c001",
+        "imtahan_qaydalari_p014_c002"
+      ],
+      "hit": true
+    },
+    {
+      "question": "Fənni yenidən dinləmədən təkrar imtahan verən tələbə həmin semestr təqaüd müsabiqəsində iştirak edirmi?",
+      "expected_chunk": "imtahan_qaydalari_p016_c001",
+      "retrieved_chunks": [
+        "imtahan_qaydalari_p016_c001",
+        "imtahan_qaydalari_p015_c002",
+        "imtahan_qaydalari_p015_c001"
+      ],
+      "hit": true
+    },
+    {
+      "question": "Yeni sistemlə şifahi və yazılı imtahana tələbə neçə dəqiqə əvvəl gəlməlidir?",
+      "expected_chunk": "imtahan_qaydalari_p018_c002",
+      "retrieved_chunks": [
+        "imtahan_qaydalari_p018_c002",
+        "imtahan_qaydalari_p005_c001",
+        "imtahan_qaydalari_p012_c002"
+      ],
+      "hit": true
+    }
+  ]
+}

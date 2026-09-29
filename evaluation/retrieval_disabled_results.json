@@ -1,0 +1,87 @@
+[
+  {
+    "question": "Apellyasiya Qaydaları adlı 5-ci bölmədə müraciət müddəti nədir?",
+    "result": {
+      "mode": "rag",
+      "model": "llama3.2:latest",
+      "status": "not_found",
+      "answer": "Təqdim olunan sənədlərdə bu suala cavab tapılmadı.",
+      "citations": [],
+      "retrieved": [],
+      "evidence": [],
+      "model_selection": {
+        "evidence_id": 0
+      },
+      "retrieval_enabled": false
+    },
+    "changed": true
+  },
+  {
+    "question": "4.7-ci bölmədə tələbənin apellyasiya üçün müraciət müddəti nədir?",
+    "result": {
+      "mode": "rag",
+      "model": "llama3.2:latest",
+      "status": "not_found",
+      "answer": "Təqdim olunan sənədlərdə bu suala cavab tapılmadı.",
+      "citations": [],
+      "retrieved": [],
+      "evidence": [],
+      "model_selection": {
+        "evidence_id": 0
+      },
+      "retrieval_enabled": false
+    },
+    "changed": true
+  },
+  {
+    "question": "İmtahan zalına hansı əşyaları gətirmək qadağandır?",
+    "result": {
+      "mode": "rag",
+      "model": "llama3.2:latest",
+      "status": "not_found",
+      "answer": "Təqdim olunan sənədlərdə bu suala cavab tapılmadı.",
+      "citations": [],
+      "retrieved": [],
+      "evidence": [],
+      "model_selection": {
+        "evidence_id": 0
+      },
+      "retrieval_enabled": false
+    },
+    "changed": true
+  },
+  {
+    "question": "İmtahan qaydalarını pozaraq zaldan xaric edilən tələbəyə neçə bal verilir?",
+    "result": {
+      "mode": "rag",
+      "model": "llama3.2:latest",
+      "status": "not_found",
+      "answer": "Təqdim olunan sənədlərdə bu suala cavab tapılmadı.",
+      "citations": [],
+      "retrieved": [],
+      "evidence": [],
+      "model_selection": {
+        "evidence_id": 0
+      },
+      "retrieval_enabled": false
+    },
+    "changed": true
+  },
+  {
+    "question": "4.8-ci bölmədə i̇mtahan başlayandan neçə dəqiqə sonra gecikmiş tələbə zala buraxılmır?",
+    "result": {
+      "mode": "rag",
+      "model": "llama3.2:latest",
+      "status": "not_found",
+      "answer": "Təqdim olunan sənədlərdə bu suala cavab tapılmadı.",
+      "citations": [],
+      "retrieved": [],
+      "evidence": [],
+      "model_selection": {
+        "evidence_id": 0
+      },
+      "retrieval_enabled": false
+    },
+    "changed": true
+  }
+]
